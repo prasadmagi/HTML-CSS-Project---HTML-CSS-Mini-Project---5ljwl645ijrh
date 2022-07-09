@@ -25,3 +25,5 @@ and  it is HTML CSS mini project but little bit JAVASCRIPT used in a project for
 
 # Note 
 This site best viewed in Google Chrome browser.
+
+To open live website click here: https://university-website-clone.netlify.app/

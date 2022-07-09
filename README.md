@@ -1,7 +1,7 @@
 
 # University Template Of Multiple page
 
-#### By Prasad Magi
+#### Designed by Prasad Magi
 
 #### This Webpage is showing information about Education of University 
 
